@@ -1,0 +1,7 @@
+put an ir sensor on auduino or use breadboard?
+
+use a signal input from the sensor to change a hue for the sketch background?
+
+
+or add the temperature sensor as well to take the ir info correlated with the 
+temperature changes to create moving shapes on sketch?
